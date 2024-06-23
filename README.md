@@ -1,1 +1,1 @@
-Homework for "Database Management" course.
+Assignments of "Database Management" course.
